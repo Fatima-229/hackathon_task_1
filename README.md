@@ -1,1 +1,1 @@
-NEXT JS DESIGN
+This is my Car Rent Website.
